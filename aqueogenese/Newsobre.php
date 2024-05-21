@@ -51,6 +51,7 @@ include_once("template/header.php");
         <div id="barra" class="container-md">
             <h2>Aqui você entende o surgimento da maior empresa de arqueolgia do mundo</h2>
             <p>teste testes</p>
+            <p>outro teste para o push</p>
         </div>
     </div>
 </section>
