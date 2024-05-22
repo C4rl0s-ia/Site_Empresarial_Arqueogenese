@@ -19,10 +19,7 @@
       
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas explicabo fuga soluta quod tenetur consectetur tempora? 
           Provident, maiores perferendis. Laboriosam pariatur incidunt eveniet tenetur quibusdam excepturi doloribus consequuntur aspernatur non!</p>
-      
-        <p>Doideira de novo teste</p>
-
-        </div>    
+      </div>    
     </div> 
     
     <div class="container-md mt-3">

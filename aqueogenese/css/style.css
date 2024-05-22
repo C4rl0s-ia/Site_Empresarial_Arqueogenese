@@ -156,8 +156,15 @@ footer {
 
 /*Carlos henrique - Começo do sobre*/
 
+/*Alterações realizadas 21/05/2024*/
+
+/*Alterações realizadas com a adição de box-shadow na div #fundo */
+/*Adição de imagens abaixo dos tópicos dispostos na div #valores*/
+
+
 #fundo{
     background-image: url(../image/arquiologa.jpg);
+    background-color: rgb(247, 247, 247, 1);
     background-position: 0 -2px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -165,14 +172,18 @@ footer {
     color: rgb(247, 247, 247, 1);
     padding: 80px 10px 80px 10px;
     opacity: 0.8;
- }
- #fundo{
-     background-color: rgb(247, 247, 247, 1);
- }
- #forme{
-     margin-top: 30px
- }
- 
+}
+
+#valores {
+    color: #8a4d1b;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#valores #valores_text {
+    font-size: 18px;
+}
+
 #barra {
     box-shadow: black 0px -2px 10px 3px;
     background: #8a4d1b;
@@ -183,15 +194,29 @@ footer {
     color: white;
 }
 
-#valores {
-    color: #8a4d1b;
-    padding-top: 20px;
-    padding-bottom: 20px;
+#barra_t {
+    box-shadow: black 0px -2px 10px 3px;
+    background: #8a4d1b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: white;
 }
+
+#new_sobre {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 18px;
+}
+
 
 i h3{
      margin-left: 15px;
 }
+
+/*Aqui realizei a responsividade da página index.php, pois visei adicionar um scroll em uma parte 
+visando realizar um entendimento melhor o parâmetro overflow do CSS*/
 
 @media (max-width: 1400px) {
     #letra {
