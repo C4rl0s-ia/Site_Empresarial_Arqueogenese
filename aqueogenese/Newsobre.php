@@ -56,22 +56,24 @@ e a outra traz um texto referente a loja. Além disso realizei a manutençao da 
             <h2>Aqui você entende o surgimento da maior empresa de arqueolgia do mundo</h2>
         </div>
 
-        <div id="new_sobre">
-            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis. </p>
+        <article>
+            <div id="new_sobre">
+                <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis. </p>
 
-            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis. </p>
+                <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis. </p>
 
-            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis. </p>
-        </div>
+                <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis.
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus facere modi dicta exercitationem sapiente fugiat illo ipsum assumenda est unde cum sit amet magni voluptas veniam, iste quibusdam hic officiis. </p>
+            </div>
+        </article>
 
     </div>
 </section>

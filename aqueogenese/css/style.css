@@ -210,9 +210,13 @@ footer {
     font-size: 18px;
 }
 
+::-webkit-scrollbar {
+    width: 5px;
+}
 
-i h3{
-     margin-left: 15px;
+::-webkit-scrollbar-thumb {
+    width: auto;
+    background-color: #8a4d1b;
 }
 
 /*Aqui realizei a responsividade da página index.php, pois visei adicionar um scroll em uma parte 
