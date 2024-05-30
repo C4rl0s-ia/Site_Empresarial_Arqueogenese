@@ -211,11 +211,11 @@ footer {
 }
 
 ::-webkit-scrollbar {
-    width: 200px;
+    width: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
-    width: 200px;
+    width: auto;
     background-color: #8a4d1b;
 }
 
