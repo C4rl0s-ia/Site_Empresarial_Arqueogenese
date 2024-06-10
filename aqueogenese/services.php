@@ -1,9 +1,14 @@
 <?php
   include_once("template/header.php");
-  echo "URL BASE: $BASE_URL"	
 ?>
 
-git 
+<section>
+  
+  <div class="container-md">
+
+  </div>
+
+</section>
 
 
 <?php
