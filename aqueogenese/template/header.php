@@ -8,6 +8,7 @@
     crossorigin="anonymous">
     <link rel="shortcut icon" type="image/jpg" href="image/favicon/favicon_arqueologo.png">
     <link rel="stylesheet" href="css/style.css">
+    <script src="script/script.js" defer></script>
 
     <title>Aqui é História</title>
 </head>

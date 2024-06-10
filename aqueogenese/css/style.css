@@ -65,7 +65,7 @@ header {
 
 /*Estilo personalizado dos botões*/
 
-.bnt, .nav-link {
+.bnt, .nav-link, #close-modal {
     outline: none;
     text-decoration: none;
     color: white;
@@ -75,6 +75,12 @@ header {
   
 .btn:hover,
 .btn:focus {
+    color: white;
+    background: #45260d;
+}
+
+#close-modal:hover,
+#close-modal:focus {
     color: white;
     background: #45260d;
 }
@@ -273,4 +279,71 @@ visando realizar um entendimento melhor o parâmetro overflow do CSS*/
         display: flex;
     }
 
+}
+
+/*Janela modal - área de contatos*/
+
+#fade {
+    /*Trazendo opacidade para o fundo do modal*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 5;
+}
+
+#modal {
+    /*Trazendo a centralização e sobremondo o modal*/
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /*Ao utilizar a position fixed, vale usar esse parâmetro "transform" 
+    para a centralização seguindo com valores negativos dos postos em "top" e "left" */
+    background-color: white;
+    z-index: 10;
+    /*Trazendo estilo para o modal*/
+    width: 500px;
+    max-width: 90%;
+    padding: 1.2rem;
+    border-radius: 25px;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.modal-body p {
+    font-size: 30px;
+    margin-bottom: 1rem;
+}
+
+#modal.hide,
+#fade.hide {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#fade, 
+#modal {
+    transition: 0.5s;
+    opacity: 1;
+    pointer-events: all;
+}
+
+/*border-radius no bnt "close-modal"*/
+
+#close-modal {
+    border: none;
+    border-radius: 10px;
+}
+
+#modal.hide {
+    top: 0;
 }

@@ -13,6 +13,7 @@
         $stmt = $pdo->prepare($query);
         $stmt->execute();
     
+        header("location: /myhost-exemple/aqueogenese/contacts.php?criado=sucesso");
     }
 
 ?>
